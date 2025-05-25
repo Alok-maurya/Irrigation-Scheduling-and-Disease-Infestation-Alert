@@ -8,4 +8,11 @@
 # # A screenshot of the GUI is provided below. This GUI is user-friendly and users can easily use it.
 ![Screenshot 2025-05-25 094150](https://github.com/user-attachments/assets/e870d37d-e5c8-45a6-a20e-0081d1f67caa)
 
+## I have provided a screenshot of how to install and manage the GUI.
+--> Install the package to your computer
+![Screenshot 2025-05-25 092743](https://github.com/user-attachments/assets/42bd49c4-6e4b-493f-aa8a-177bba6bc0d1)
+
+--> activate the package and open 
+![Screenshot 2025-05-25 100208](https://github.com/user-attachments/assets/bc27d2f2-d424-42be-8a67-77cc0a9e9f16)
+
 
