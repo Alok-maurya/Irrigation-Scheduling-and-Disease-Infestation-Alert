@@ -1,7 +1,7 @@
 # Irrigation-Scheduling-and-Disease-Infestation-Alert
 #This respiratory contains the code for detection Disease infestation and Irrigation Scheduling on the specific day.
 # Few thing to be need
-1. The provide the proper indexing of the required parameter, such as for first coulmn it should be zero. 
+1. Provide the proper indexing of the required parameter, such as for first coulmn it should be zero. 
 2. According to the crop, the user can modify the threshold value to get the desired out put.
 3. Here this script check the four hr interval condition over the whole dataset--> to check the condition
 
