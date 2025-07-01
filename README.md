@@ -18,8 +18,8 @@
 
 
 ### Acknowledgements
-- Thank you Er. BBikash Ranjan Behera, for helping in preparartion of the initial/basic structure of work.
+- Thank you Er. Bikash Ranjan Behera, for helping in preparartion of the initial/basic structure of work.
 
-- This project was developed with assistance from [ChatGPT](https://openai.com/chatgpt) by OpenAI for research. Thank you OpenAI for providing a frre of cost AI assistance  in the research work.
+- This project was developed with assistance from [ChatGPT](https://openai.com/chatgpt) by OpenAI for research. Thank you OpenAI for providing a free of cost AI assistance  in the research work.
 
 
