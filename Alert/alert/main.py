@@ -1,7 +1,5 @@
-# -*- coding: utf-8 -*-
 """
-Created on Sat May 24 23:28:37 2025
-@author: ALOK KUMAR
+Author: Alok Kumar Maurya
 """
 
 import pandas as pd
